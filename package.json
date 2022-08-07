@@ -19,6 +19,6 @@
   "homepage": "https://github.com/sk-kumar/restAPI_express_mongodb#readme",
   "dependencies": {
     "express": "^4.18.1",
-    "mongoose": "^6.5.1"
+    "mongodb": "^4.8.1"
   }
 }
